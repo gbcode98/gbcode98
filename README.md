@@ -1,8 +1,8 @@
 ### Olá ! Eu sou o Gabriel Carlos 👋
 
-### Estudando atualmente : JavaScript, Bash, Python :octocat: 
+### Estudando atualmente : JavaScript, Bash, Python 
 
-### Formação acadêmica : Gestão da Tecnologia da Informação :octocat:
+### Formação acadêmica : Gestão da Tecnologia da Informação 
 
 ### Atuando como Cientista de Dados :octocat:
 
