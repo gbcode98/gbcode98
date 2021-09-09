@@ -1,8 +1,8 @@
 ### Olá ! Eu sou o Gabriel Carlos 👋
 <div>
   <a href="https://github.com/gbcode98">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=gbcode98&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcode98&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="134em" src="https://github-readme-stats.vercel.app/api?username=gbcode98&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcode98&layout=compact&langs_count=7&theme=nightowl"/>
 </div> 
   
   <div style="display: inline_block"><br>
