@@ -5,6 +5,8 @@
   <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcode98&layout=compact&langs_count=7&theme=nightowl"/>
 </div> 
   
+  ### Tecnologias
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.discordapp.com/attachments/783823259988131901/882952230792228884/mysql.png">
@@ -12,7 +14,7 @@
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/783823259988131901/882943804682944622/ezgif.com-gif-maker_1.gif">
 </div>
  
-##
+### Redes Socias
 
  </div>
  <a href="https://www.youtube.com/channel/UCdvYPSKWqpTurQWk7V0Lfkg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
