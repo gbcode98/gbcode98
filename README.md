@@ -1,9 +1,10 @@
-### Olá ! Eu sou o Gabriel Carlos 👋
+### Olá ! Eu sou o Gabriel Carlos 👋   
+<a href="https://gifyu.com/image/S3H2a"><img height="134em" src="https://s5.gifyu.com/images/Design-sem-nome75d5406b722004a2.gif" alt="Design-sem-nome75d5406b722004a2.gif" border="0" /></a>
+
 <div>
   <a href="https://github.com/gbcode98">
   <img height="134em" src="https://github-readme-stats.vercel.app/api?username=gbcode98&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcode98&layout=compact&langs_count=7&theme=nightowl"/>
-  <a href="https://gifyu.com/image/S3H2a"><img height="134em" src="https://s5.gifyu.com/images/Design-sem-nome75d5406b722004a2.gif" alt="Design-sem-nome75d5406b722004a2.gif" border="0" /></a>
+  <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcode98&layout=compact&langs_count=7&theme=nightowl"/
 </div> 
 
 ### Redes Socias
