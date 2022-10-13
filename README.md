@@ -1,5 +1,4 @@
 ### Olá ! Eu sou o Gabriel Carlos 👋   
-<a href="https://gifyu.com/image/S3H2a"><img height="134em" src="https://s5.gifyu.com/images/Design-sem-nome75d5406b722004a2.gif" alt="Design-sem-nome75d5406b722004a2.gif" border="0" /></a>
 
 <div>
   <a href="https://github.com/gbcode98">
