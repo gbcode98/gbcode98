@@ -19,5 +19,5 @@
 </div>
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=gbcode98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=gbcode98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="70%">
 </div>
