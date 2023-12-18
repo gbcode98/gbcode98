@@ -17,4 +17,7 @@
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/gabriel-carlos-3312b21b9/)
 </div>
+
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gbcode98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="50%">
+</div>
