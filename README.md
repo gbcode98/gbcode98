@@ -12,11 +12,8 @@
     🍕 Food  • Cake & Cookie & Pizza & Quindim 🐤🐥
 </pre>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=gbcode98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" align="center" width="55%">
-<br><br><br>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
 <br><br><br>
 
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/gabriel-carlos-3312b21b9/)
+[![](https://img.shields.io/badge/linkedin-0a66c2) ](https://www.linkedin.com/in/gabriel-carlos-3312b21b9/)
 </div>
