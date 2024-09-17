@@ -17,3 +17,8 @@
 
 [![](https://img.shields.io/badge/linkedin-0a66c2) ](https://www.linkedin.com/in/gabriel-carlos-3312b21b9/)
 </div>
+
+
+<div align="center">
+  <img src="https://pokemon-status.vercel.app/?pokemon=gengar&user=gbcode98&theme=dratini">
+</div>
