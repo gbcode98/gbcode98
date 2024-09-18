@@ -20,5 +20,5 @@
 
 
 <div align="center">
-  <img src="https://pokemon-status.vercel.app/?pokemon=gengar&user=gbcode98&theme=dratini">
+  <img src="https://pokemon-status.vercel.app/?pokemon=skitty&user=gbcode98&theme=sylveon">
 </div>
