@@ -27,4 +27,7 @@
     </a>
     <a href="https://github.com/gbcode98">
       <img alt="gbcode98 Top Languages" title= "Click on the link and check out the URL" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcode98&langs_count=9&count_private=true&layout=compact&theme=radical" height="192px">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gbcode98&theme=radical">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gbcode98&custom_title=gbcode98's%20GitHub%20Activity%20Graph&bg_color=141321&text_color=FE428E&line=FE428E&point=0079fa&area=true&hide_border=true">
 </p>
+
