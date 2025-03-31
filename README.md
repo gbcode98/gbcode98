@@ -19,7 +19,7 @@
 <h3 align=center>
         </a>
         <a href="[https://github.com/maximmorenko](https://github.com/WizardCodeForge/pokemon-status)">
-      <img alt="gbcode98 pokemon pet title= "Click on the link and check out the URL" src="https://pokemon-status.vercel.app/?pokemon=gengar&user=gbcode98&theme=ditto" height="300px">
+      <img alt="gbcode98 pokemon pet title = "Click on the link and check out the URL" src="https://pokemon-status.vercel.app/?pokemon=gengar&user=gbcode98&theme=ditto" height="300px">
     </a>
  <p align="center"> <!--- P tag to align contents -->
     <a href="https://github.com/gbcode98">
