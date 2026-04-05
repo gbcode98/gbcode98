@@ -1,33 +1,78 @@
-<h1 align=center>Hi there my name is Gabriel <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjd4bHcyczRmNWhmeTN5ODBhOXN2OGw2ZWgyYzh5dWEyamExYmR5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rizlFUsPxF0wVKeL1h/giphy.gif" width="70px" height="55px"> </h1>
-<h3 align=center>I am a data scientist. Welcome and enjoy watching!</h3>
-<h3 align=center> Some information about me <h3 align=center>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gbcode98&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbcode98&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img alt="gbcode98 pokemon pet title = "Click on the link and check out the URL" src="https://pokemon-status.vercel.app/?pokemon=pikachu&user=gbcode98&theme=ditto" height="300px">
+</div>
 
-<pre>
-🔍 Bachelor — Information technology management
+###
 
-💻 System programming languages —  SQL •  Python • Rstudio 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+</div>
 
-🍕 Foods — Pizza • Pastel 😋
+###
 
-🎮 Leisure time — Surf • Skateboard • Games 
-</pre>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-carlos-3312b21b9/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href=".gabrieru" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
+###
 
-    
-<h3 align=center>
-        </a>
-        <a href="[https://github.com/maximmorenko](https://github.com/WizardCodeForge/pokemon-status)">
-      <img alt="gbcode98 pokemon pet title = "Click on the link and check out the URL" src="https://pokemon-status.vercel.app/?pokemon=pikachu&user=gbcode98&theme=ditto" height="300px">
-    </a>
- <p align="center"> <!--- P tag to align contents -->
-    <a href="https://github.com/gbcode98">
-      <img alt="gbcode98 Github Stats" title= "Click on the link and check out the URL" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gbcode98&show_icons=true&count_private=true&layout=compact&theme=radical" height="192px">
-    </a>
-    <a href="https://github.com/gbcode98">
-      <img alt="gbcode98 Top Languages" title= "Click on the link and check out the URL" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcode98&langs_count=9&count_private=true&layout=compact&theme=radical" height="192px">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gbcode98&theme=radical">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gbcode98&custom_title=gbcode98's%20GitHub%20Activity%20Graph&bg_color=141321&text_color=FE428E&line=FE428E&point=0079fa&area=true&hide_border=true">
-</p>
+###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/31rjt42a6eahzjmbqsrgovl6umkm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rjt42a6eahzjmbqsrgovl6umkm&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:gbcode98?theme=moebooru-h&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbcode98/gbcode98/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbcode98/gbcode98/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gbcode98/gbcode98/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
+
+###
