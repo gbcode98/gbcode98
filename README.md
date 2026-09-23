@@ -1,78 +1,70 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Gabriel%20Carlos&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=An%C3%A1lise%20e%20Engenharia%20de%20Dados&descSize=18&descAlignY=58&theme=tokyonight" alt="Gabriel Carlos" />
 
-###
+## Sobre mim
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gbcode98&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbcode98&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img alt="gbcode98 pokemon pet title = "Click on the link and check out the URL" src="https://pokemon-status.vercel.app/?pokemon=pikachu&user=gbcode98&theme=ditto" height="300px">
-</div>
+Sou um profissional dedicado e apaixonado por tecnologia, especializado em engenharia de dados.
 
-###
+- 💼 Trabalho com dados na [Radar Saúde](https://github.com/radarsaude)
+- 🎓 Pós-graduação em Engenharia de Dados ([anotações e exemplos](https://github.com/gbcode98/postgraduate-dataengineering))
+- 🛠️ Hoje estudando data lakes com ferramentas open source
+
+## Tecnologias
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" title="Oracle" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" title="Grafana" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </div>
 
-###
+## Projetos em destaque
+
+| Projeto | Descrição |
+| --- | --- |
+| [datalake-dukedb](https://github.com/gbcode98/datalake-dukedb) | Data Lake do zero com ferramentas 100% open source, sem custo de licença |
+| [postgraduate-dataengineering](https://github.com/gbcode98/postgraduate-dataengineering) | Estudos e exemplos da pós em Engenharia de Dados |
+| [Gatito-PowerBI](https://github.com/gbcode98/Gatito-PowerBI) | Dashboard em Power BI para uma empresa de cuidados com gatos |
+| [trial-abstrato](https://github.com/gbcode98/trial-abstrato) | Desafio técnico em R |
+
+## Atividade
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-carlos-3312b21b9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href=".gabrieru" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=gbcode98&locale=pt_BR&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Sequência de contribuições" />
 </div>
 
-###
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31rjt42a6eahzjmbqsrgovl6umkm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rjt42a6eahzjmbqsrgovl6umkm&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:gbcode98?theme=moebooru-h&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbcode98/gbcode98/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbcode98/gbcode98/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gbcode98/gbcode98/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/gbcode98/gbcode98/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+## Ouvindo agora
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+<div align="center">
+  <a href="https://open.spotify.com/user/31rjt42a6eahzjmbqsrgovl6umkm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rjt42a6eahzjmbqsrgovl6umkm&count=5&unique=true" alt="Tocadas recentemente no Spotify" />
+  </a>
 </div>
 
-###
+## Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-carlos-3312b21b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Discord-.gabrieru-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: .gabrieru" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://count.getloli.com/@:gbcode98?theme=moebooru-h&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Contador de visitas" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=tokyonight" alt="" />
